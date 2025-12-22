@@ -1,4 +1,1 @@
-tito_vpn_bin/
-│
-├── tito_vpn        ← BIN
-├── version.txt     ← 2.0.1
+2.0.1
