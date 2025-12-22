@@ -1,4 +1,4 @@
 tito_vpn_bin/
-├── tito_vpn          (binario)
-├── version.txt       (solo un número: 1.0.0)
-└── README.md
+│
+├── tito_vpn        ← BIN
+├── version.txt     ← 2.0.1
